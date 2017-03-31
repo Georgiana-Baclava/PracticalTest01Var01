@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticalTest01Var01</string>
+    <string name="nord">NORTH</string>
+    <string name="sud">SOUTH</string>
+    <string name="est">EAST</string>
+    <string name="vest">WEST</string>
+    <string name="sec_activity">NAVIGATE TO SECOND ACTIVITY</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+</resources>
